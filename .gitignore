@@ -1,5 +1,7 @@
 .venv
-crime_data/
+crime_data
+videos
 .vscode
 opencv
 .DS_Store
+camnuvem_anomaly_detection_model.keras
