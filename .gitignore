@@ -1,5 +1,6 @@
-.venv
+.venv-metal-tf
 crime_data
+crime_data.zip
 videos
 .vscode
 opencv
