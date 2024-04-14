@@ -6,3 +6,4 @@ videos
 opencv
 .DS_Store
 camnuvem_anomaly_detection_model.keras
+movinet_a0_base
